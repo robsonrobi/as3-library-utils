@@ -1,5 +1,5 @@
 package utils.type
 {
 	[ExcludeClass]
-	const PACKAGE_CLASS_SEPARATOR:String = "::";
+	public const PACKAGE_CLASS_SEPARATOR:String = "::";
 }
